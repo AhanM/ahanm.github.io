@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Ahan M.</title>
+		<link rel='icon' sizes="16x16 32x32" href='assets/favicon.ico?v=2'>	
+
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+		<link rel="stylesheet" type="text/css" href="css/projects.css">
+		<link rel="stylesheet" type="text/css" href="css/term.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+
+		<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+		<script src="https://use.fortawesome.com/5924da36.js"></script>
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="particles.js"></script>
+		<script src="app.js"></script>
+		
+
+	</head>
+
+	<body>
+		<div id="render-target">
+			<div>
+				<div class="particle-wrap">
+					<div id="particles-js"></div>
+				</div>
+				<div class="content-wrap">
+					<div class="inner">
+						<div class="jumbotron custom">
+							<center><h2><b>Ahan Mukhopadhyay</b></h2></center>
+							<p>Greetings! I am a <b>Software Engineer</b> interested in Machine learning, Data Science, Cryptography,  Algorithms and Game Development</p>
+						</div>
+
+						<div>
+							<nav id="services">
+								<div class="container">
+									<div class="row">
+										<div class="col-lg-3 col-md-6 text-center">
+											<div class="service-box">
+												<a onclick="scrollToProjects()"><span class="glyphicon glyphicon-flash"></span></a>
+												<h3>Projects</h3>
+												<p class="text-muted">Links to some of my prominent projects</p>
+											</div>
+										</div>
+										<div class="col-lg-3 col-md-6 text-center">
+											<div class="service-box">
+												<a onclick="scrollToTerminal()"><span class="glyphicon glyphicon-console" data-wow-delay=".1s"></span></a>
+												<h3>Terminal</h3>
+												<p class="text-muted">Just a cool feature that somewhat emulates a Mac terminal (still under development)</p>
+											</div>
+										</div>
+										<div class="col-lg-3 col-md-6 text-center">
+											<div class="service-box">
+												<a href="./pdfs/ResumeStyled.pdf"><span class="glyphicon glyphicon-list-alt" data-wow-delay=".2s"></span></a>
+												<h3>Resumé</h3>
+												<p class="text-muted">One page concise technical Resumé</p>
+											</div>
+										</div>
+										<div class="col-lg-3 col-md-6 text-center">
+											<div class="service-box">
+												<a onclick="scrollToContact()"><span class="glyphicon glyphicon-send" data-wow-delay=".3s"></span></a>
+												<h3>Contact</h3>
+												<p class="text-muted">A variety of different ways to get in touch with me or find out more about me</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<hr class="primary"></hr>
+							</nav>
+						</div>
+
+						<div id="projects" class="projects">
+							<h1><b>Projects</b></h1>
+							<div class="projects-div">
+								<ul class="projects-ul">
+									<li class="projects-li">
+										<a href="./pdfs/ElephantProject.pdf">
+											<img src="./images/elephant.jpg" />
+											<h3>The Elephant Project</h3>
+											<p>Saving Elephants using Infrasound</p>
+										</a>
+									</li>
+									<br></br>				
+									<li class="projects-li">
+										<a href="http://coderswadiparty.pythonanywhere.com/">
+											<img src="./images/campaignpic.gif" />
+											<h3>Campaign</h3>
+											<p>Live Visualization of the Perception of the US Presidential Candidates on Twitter</p>
+										</a>
+									</li>
+									
+								</ul>
+							</div>
+							<br></br>
+						</div>
+
+						<div class="termwindow" id="terminal">
+							<div class="termheader">
+								<button class="red"></button>
+								<button class="yellow"></button>
+								<button class="green"></button>
+								<p>Terminal</p>
+							</div>
+							<div class="termbody">
+								<div class="text">Ahans-MacBook-Pro:~ Ahan$</div>
+							</div>
+							<canvas>
+								
+							</canvas>
+						</div>	
+						
+						<div id="contact">
+							<div>
+								<a href="http://www.facebook.com/ahanm.xyz"><i class="fa fa-facebook-official"></i></a>
+								<a href="mailto:ahan.m13@gmail.com"><i class="fa fa-envelope"></i></a>
+								<a href="http://github.com/AhanM"><i class="fa fa-github"></i></a>
+								<a href="http://linkedin.com/in/ahanm"><i class="fa fa-linkedin"></i></a>
+								<a href="https://open.spotify.com/user/ahanmu"><i class="fa fa-spotify"></i></a>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

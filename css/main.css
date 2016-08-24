@@ -1,0 +1,103 @@
+/* CSS declarations go here */
+
+* {
+  font-family: Garamond;
+}
+html, body {height: 100%; position: static; font: Verdana;}
+html {
+  height: 1980px;
+}
+
+body {
+  background-color: blue;
+  background: linear-gradient(145deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  position:relative;
+}
+
+#particles-js {
+  /*position: absolute;*/
+  /*pointer-events: none;*/
+}
+
+.particle-wrap {
+  position: absolute;
+  pointer-events: none;
+  width: 99%;
+  height: 100%;
+}
+
+.content-wrap {
+  text-align: center;
+  /*background-color: rgba(228, 181, 34, 0.4);*/
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner {
+  height: 100%;
+  margin-bottom: 0px;
+}
+
+.jumbotron.custom {
+  color:white; 
+  background-color:#4B4B4B; 
+  margin: auto;
+  margin-top:3%;
+  margin-bottom: 100px;
+  border-radius: 6px;
+  padding-top: 3%;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: center;
+  width: 85%;
+}
+
+.jumbotron.custom p {
+  font-size: 19px;
+}
+
+.jumbotron.custom h2 {
+  font-size:-webkit-xxx-large;
+}
+
+#services {
+  margin-bottom: 110px;
+}
+
+.service-box span {
+  font-size: 2.5em;
+  padding: 14px;
+  border-radius: 5px;
+  background: rgba(242,246,248,1);
+  background: -moz-linear-gradient(top, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(242,246,248,1)), color-stop(50%, rgba(216,225,231,1)), color-stop(51%, rgba(181,198,208,1)), color-stop(100%, rgba(224,239,249,1)));
+  background: -webkit-linear-gradient(top, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%);
+  background: -o-linear-gradient(top, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%);
+  background: -ms-linear-gradient(top, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%);
+  background: linear-gradient(to bottom, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9', GradientType=0 );
+}
+
+.service-box a {
+  color: #000000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#contact {
+  background-color:#4B4B4B; 
+  border-radius: 6px;
+  color:white;
+  /*float: left;*/
+  margin: auto;
+  width: 50%;
+  margin-bottom: 0;
+}
+
+#contact i{
+  font-size: 3.2em;
+  margin: 8px;
+  color: white;
+}
