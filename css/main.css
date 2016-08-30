@@ -5,7 +5,7 @@
 }
 html, body {height: 100%; position: static; font: Verdana; padding:0; margin:0;}
 html {
-  height: 1980px;
+  height: 1950px;
 }
 
 body {
@@ -92,6 +92,7 @@ body {
   color:white;
   /*float: left;*/
   margin: auto;
+  margin-top: 130px;
   width: 50%;
   margin-bottom: 0;
 }
