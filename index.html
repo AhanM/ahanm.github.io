@@ -22,7 +22,7 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<script src="particles.js"></script>
-		<script src="app.js"></script>
+		<script src="app.js" defer></script>
 		
 
 	</head>
@@ -104,17 +104,22 @@
 						</div>
 
 						<div class="termwindow" id="terminal">
-							<div class="termheader">
-								<button class="red"></button>
-								<button class="yellow"></button>
-								<button class="green"></button>
+							<div class="termheader" id="termheader" tabindex="-1">
+								<button class="grey red"></button>
+								<button class="grey yellow"></button>
+								<button class="grey green"></button>
 								<p>Terminal</p>
 							</div>
-							<div class="termbody">
-								<div class="text">Ahans-MacBook-Pro:~ Ahan$</div>
+							<div class="termbody" id="termbody" tabindex="-1">
+								<div class="text" style="padding-left: 3px">Last login: Tue Aug 30 13:26:13 on ttys000</div>
+								<br>
+								<div id="pretext" class="text">Ahans-MacBook-Pro:~ Ahan$</div>
+								<div id="text" class="text"></div>
+								<div id="cursor"></div>
+								<input type="text" class="terminput" />
 							</div>
 							<canvas>
-								
+							
 							</canvas>
 						</div>	
 						

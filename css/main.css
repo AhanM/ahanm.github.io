@@ -3,7 +3,7 @@
 * {
   font-family: Garamond;
 }
-html, body {height: 100%; position: static; font: Verdana;}
+html, body {height: 100%; position: static; font: Verdana; padding:0; margin:0;}
 html {
   height: 1980px;
 }
@@ -99,5 +99,25 @@ body {
 #contact i{
   font-size: 3.2em;
   margin: 8px;
-  color: white;
+  /*color: white;*/
+}
+
+.fa.fa-facebook-official {
+  color: #3981FF;
+}
+
+.fa.fa-envelope {
+  color: red;
+}
+
+.fa.fa-github {
+  color: black;
+}
+
+.fa.fa-linkedin {
+  color: #0B89DF;
+}
+
+.fa.fa-spotify {
+  color: #17FF42;
 }
