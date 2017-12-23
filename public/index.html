@@ -6,134 +6,54 @@
 
 		<title>Ahan M.</title>
 		<link rel='icon' sizes="16x16 32x32" href='assets/favicon.ico?v=2'>
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open Sans">
 
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-		<link rel="stylesheet" type="text/css" href="css/projects.css">
-		<link rel="stylesheet" type="text/css" href="css/term.css">
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 
 		<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
-		<script src="https://use.fortawesome.com/5924da36.js"></script>
-		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<script src="js/particles.js"></script>
-		<script src="js/app.js" defer></script>
+		<script src="https://use.fontawesome.com/dd20ffcae7.js"></script>
 
+		
+		<script src="js/app.js" defer></script>
 
 	</head>
 
 	<body>
+		<header>
+			<nav class="navbar">
+				<ul>
+					<li><a>Home</a></li>
+					<li><a href="pdfs/Resume.pdf">Résumé</a></li>
+					<li><a href="about.html">About</a></li>
+					<!-- <li><a href="term.html">Terminal</a></li> -->
+				</ul>
+			</nav>
+		</header>
 		<div id="render-target">
-			<div>
-				<div class="particle-wrap">
-					<div id="particles-js"></div>
+			<div class="center">
+				<i class="fa fa-shield fa-lg" aria-hidden="true"></i>
+				<br>
+				<div class="title">Ahan Mukhopadhyay</div>
+				<br>
+				<div style="display:flex">
+					<div class="circle"></div>
+					<ul class="info">
+						<li>SOFTWARE ENGINEER</li>
+						<li>DATA SCIENTIST</li>
+						<li>ASPIRING ENTREPRENEUR</li>
+					</ul>
+					<div class="after-circle"></div>
 				</div>
-				<div class="content-wrap">
-					<div class="inner">
-						<div class="jumbotron custom">
-							<center><h2><b>Ahan Mukhopadhyay</b></h2></center>
-							<p>Greetings! I am a <b>Software Engineer</b> interested in Machine learning, Data Science, Cryptography,  Algorithms and Game Development</p>
-						</div>
-
-						<div>
-							<nav id="services">
-								<div class="container">
-									<div class="row">
-										<div class="col-lg-3 col-md-6 text-center">
-											<div class="service-box">
-												<a onclick="scrollToProjects()"><span class="glyphicon glyphicon-flash"></span></a>
-												<h3>Projects</h3>
-												<p class="text-muted">Links to some of my prominent projects</p>
-											</div>
-										</div>
-										<div class="col-lg-3 col-md-6 text-center">
-											<div class="service-box">
-												<a onclick="scrollToTerminal()"><span class="glyphicon glyphicon-console" data-wow-delay=".1s"></span></a>
-												<h3>Terminal</h3>
-												<p class="text-muted">Just a cool feature that somewhat emulates a Mac terminal (still under development)</p>
-											</div>
-										</div>
-										<div class="col-lg-3 col-md-6 text-center">
-											<div class="service-box">
-												<a href="pdfs/Resume.pdf"><span class="glyphicon glyphicon-list-alt" data-wow-delay=".2s"></span></a>
-												<h3>Resumé</h3>
-												<p class="text-muted">One page concise technical Resumé</p>
-											</div>
-										</div>
-										<div class="col-lg-3 col-md-6 text-center">
-											<div class="service-box">
-												<a onclick="scrollToContact()"><span class="glyphicon glyphicon-send" data-wow-delay=".3s"></span></a>
-												<h3>Contact</h3>
-												<p class="text-muted">A variety of different ways to get in touch with me or find out more about me</p>
-											</div>
-										</div>
-									</div>
-								</div>
-								<hr class="primary"></hr>
-							</nav>
-						</div>
-
-						<div id="projects" class="projects">
-							<h1><b>Projects</b></h1>
-							<div class="projects-div">
-								<ul class="projects-ul">
-									<li class="projects-li">
-										<a href="pdfs/ElephantProject.pdf">
-											<img src="images/elephant.jpg" />
-											<h3>The Elephant Project</h3>
-											<p>Saving Elephants using Infrasound</p>
-										</a>
-									</li>
-									<br></br>
-									<li class="projects-li">
-										<a href="http://coderswadiparty.pythonanywhere.com/">
-											<img src="images/campaignpic.gif" />
-											<h3>Campaign</h3>
-											<p>Live Visualization of the Perception of the US Presidential Candidates on Twitter</p>
-										</a>
-									</li>
-
-								</ul>
-							</div>
-							<br></br>
-						</div>
-
-						<div class="termwindow" id="terminal">
-							<div class="termheader" id="termheader" tabindex="-1">
-								<button class="grey red"></button>
-								<button class="grey yellow"></button>
-								<button class="grey green"></button>
-								<p>Terminal</p>
-							</div>
-							<div class="termbody" id="termbody" tabindex="-1">
-								<div class="text" style="padding-left: 3px">Last login: Tue Aug 30 13:26:13 on ttys000</div>
-								<br>
-								<div id="pretext" class="text">Ahans-MacBook-Pro:~ Ahan$</div>
-								<div id="text" class="text"></div>
-								<div id="cursor"></div>
-								<input type="text" class="terminput" />
-							</div>
-							<canvas>
-
-							</canvas>
-						</div>
-
-						<div id="contact">
+					
+				<div id="contact">
 							<div>
-								<a href="http://www.facebook.com/ahanm.xyz"><i class="fa fa-facebook-official"></i></a>
-								<a href="mailto:ahan.m13@gmail.com"><i class="fa fa-envelope"></i></a>
-								<a href="http://github.com/AhanM"><i class="fa fa-github"></i></a>
-								<a href="http://linkedin.com/in/ahanm"><i class="fa fa-linkedin"></i></a>
-								<a href="https://open.spotify.com/user/ahanmu"><i class="fa fa-spotify"></i></a>
+								<a data-original-title="Facebook" href="http://www.facebook.com/ahanm.xyz"><i class="fa fa-facebook-official fa-2x"></i></a>
+								<a data-original-title="Facebook" href="mailto:ahan.m13@gmail.com"><i class="fa fa-envelope fa-2x"></i></a>
+								<a data-original-title="Facebook" href="http://github.com/AhanM"><i class="fa fa-github fa-2x"></i></a>
+								<a data-original-title="Facebook" href="http://linkedin.com/in/ahanm"><i class="fa fa-linkedin fa-2x"></i></a>
+								<a data-original-title="Facebook" href="https://open.spotify.com/user/ahanmu"><i class="fa fa-spotify fa-2x"></i></a>
 							</div>
-						</div>
-
-					</div>
 				</div>
 			</div>
 		</div>
