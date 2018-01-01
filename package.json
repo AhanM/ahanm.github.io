@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "https://ahanm.herokuapp.com",
   "main": "index.js",
+  "start": "node index.js",
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.16.2"
