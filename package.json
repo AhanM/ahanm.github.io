@@ -1,0 +1,24 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "https://ahanm.herokuapp.com",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhanM/PersonalWebsite.git"
+  },
+  "author": "Ahan Mukhopadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhanM/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/AhanM/PersonalWebsite#readme"
+}
