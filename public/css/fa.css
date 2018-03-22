@@ -1,0 +1,32 @@
+i {
+  font-size: 3.2em;
+  margin: 4px;
+}
+
+.fa.fa-shield {
+  color: greenyellow;
+}
+
+.fa.fa-chevron-circle-right {
+  color: black;
+}
+
+.fa.fa-facebook-official {
+  color: #3981FF;
+}
+
+.fa.fa-envelope {
+  color: red;
+}
+
+.fa.fa-github {
+  color: black;
+}
+
+.fa.fa-linkedin {
+  color: #0B89DF;
+}
+
+.fa.fa-spotify {
+  color: #17FF42;
+}
