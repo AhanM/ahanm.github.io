@@ -79,7 +79,7 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
   <li>Tech Used: Python, scikit-learn, beautifulsoup, Flask</li>
 </ul>
 
-<img style="float:right; margin: 0px 10px 0px 0px;" src="../public/triventslogo.jpg" width="150">
+<img style="float:right; margin: 0px 10px 0px 0px;" src="{{ site.baseurl }}/public/triventslogo.jpg" width="150">
 **Trivents --** _Events Management Project_ <br />
 **DocuSign Prize Winner** _SD Hacks 2016_
 <ul style="font-size: 17px">
