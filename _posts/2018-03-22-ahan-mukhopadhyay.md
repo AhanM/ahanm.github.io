@@ -4,6 +4,7 @@ title: Ahan Mukhopadhyay
 ---
 
 <div class="message" style="font-size: 18px">
+  Welcome to my blog-centric personal website! This first post is a little about me. To check out some of my other posts click on the blog link on the sidebar!<br/><br/>
   I am a second year undergraduate at <a href="http://ucsd.edu">UC San Diego</a> pursuing a Bachelor of Science in Computer Science and a minor in Economics. I am a tutor for the <a href="http://cse.ucsd.edu">CSE Department</a> and a sustainability intern at the <a href="http://sustainability.ucsd.edu">Office of Sustainability</a>.
 </div>
 
@@ -53,10 +54,58 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
 
 ### Projects
 
+<img style="float:right; margin: 0px 10px 0px 0px;" src="http://res.cloudinary.com/djmk9vktk/image/upload/c_scale,q_100,w_216/v1499027349/logo-v3_fsgu4g.png" width="200">
+**[ChessBox](https://github.com/AhanM/ChessBox)** **--** _Physical chessboard AI_ <br />
+**PiB** - [Project in a Box](http://pib.ucsd.edu) **//** _Jan - Mar 2018_
+<ul style="font-size: 17px">
+  <li>AI obtained a 1400-1500 chess.com competitive rating</li>
+  <li>Employs Alpha-Beta Pruning and Iterative deeping for search.</li>
+  <li>Percieved instantaneous depth-7 search computation.</li>
+  <li>Avoids the horizon effect using a Quiscience search.</li>
+  <li>Interacts with physical board using an interface.</li>
+  <li>Chessboard uses IR sensors to detect piece movement.</li>
+  <li>Tech Used: C/C++, AI, AlphaBeta Pruning</li>
+</ul>
+
+<img style="float:right; margin: 0px -20px 0px 0px;" src="https://firefly-challengepost.netdna-ssl.com/usercontent/fill/333/222/cGhvdG9zL3Byb2R1Y3Rpb24vc29mdHdhcmVfdGh1bWJuYWlsX3Bob3Rvcy8wMDAvNDU5LzUxNi9kYXRhcy9vcmlnaW5hbC5wbmc=/banner.png?signature=f2bd415c294012d01f5f765d1d5a3df0010c54ec" width="200">
+**ClickBlock --**  _Chrome extension that counters clickbaits_ <br />
+**Social Hack Winner** _HackUCI 2017_
+<ul style="font-size: 17px">
+  <li>Automatically checks every link on your FB feed for clickbait.</li>
+  <li>Changes title a more appropriate one for the article's content.</li>
+  <li>Provides a 10-line summary on hover and a probability of correctness.</li>
+  <li>Classifier trained on 5000 articles with 89% tested accuracy.</li>
+  <li>Published on <a href="https://chrome.google.com/webstore/detail/clickblock/bgiafoodmnpnhoinjfhgkgepamghmonk?authuser=1">Chrome Web Store.</a></li>
+  <li>Tech Used: Python, scikit-learn, beautifulsoup, Flask</li>
+</ul>
+
+<img style="float:right; margin: 0px 10px 0px 0px;" src="../public/triventslogo.jpg" width="150">
+**Trivents --** _Events Management Project_ <br />
+**DocuSign Prize Winner** _SD Hacks 2016_
+<ul style="font-size: 17px">
+  <li>A platform that allows event posting to all social media pages.</li>
+  <li>Markets events to people in the neighborhood.</li>
+  <li>Each event has a QR code which can be used to signup for the event</li>
+  <li>Messenger Bot uses the QR code to register you for the event.</li>
+  <li>QR ticket scanning helps prevent longs queues.</li>
+  <li>Tech Used: NodeJS, MeteorJS, Messenger Bot, FB Graph API, GoogleMaps API</li>
+</ul>
+
+**[Elephant Project](./public/pdfs/ElephantProject.pdf) --** _Saving Elephants Using Ultrasound_ <br/>
+**Research Project** _2015_
+<ul style="font-size: 17px">
+  <li>Targets elephants that die from crossing railroads in India.</li>
+  <li>Made an infrasounds generator to alert Elphants from a distance.</li>
+  <li>Program adjusts for Doppler Effect with input velocity</li>
+  <li>Tested its use and wrote a comprehensive research paper.</li>
+  <li>Presented prototype at multiple conferences.</li>
+  <li>Tech Used: Java, LateX</li>
+</ul>
+
 ***
 
 <h3 style="margin-bottom: -20px">Teaching Assistant Positions</h3>
-<img style="float:right; margin: 0px 25px 15px 20px;" src="http://www.arkin.xyz/UCSD.png" width="200">
+<img style="float:right; margin: 0px 15px 15px 0px;" src="http://www.arkin.xyz/UCSD.png" width="200">
 <br /> <br />
 <!-- [CSE 11 - Object Oriented Programming](https://cseweb.ucsd.edu/~ricko/CSE11/) -->
 <a style="font-size: 17px" href="https://cseweb.ucsd.edu/~ricko/CSE11/">CSE 11 - Object Oriented Programming</a>
@@ -79,5 +128,3 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
   <li>CSE 12 - Data Strcutures & OOP Design</li>
   <li>CSE 11 - Introduction to Object Oriented Programming</li>
 </ul>
-
-***
