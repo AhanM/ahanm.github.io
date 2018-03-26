@@ -1,2 +1,2 @@
 # Personal Website
-https://ahanm.herokuapp.com
+https://ahanm.github.io
