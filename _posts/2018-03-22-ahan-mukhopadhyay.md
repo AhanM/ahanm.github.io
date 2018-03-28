@@ -91,7 +91,7 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
   <li>Tech Used: NodeJS, MeteorJS, Messenger Bot, FB Graph API, GoogleMaps API</li>
 </ul>
 
-**[Elephant Project](./public/pdfs/ElephantProject.pdf) --** _Saving Elephants Using Ultrasound_ <br/>
+**[Elephant Project]({{ site.baseurl }}/public/pdfs/ElephantProject.pdf) --** _Saving Elephants Using Ultrasound_ <br/>
 **Research Project** _2015_
 <ul style="font-size: 17px">
   <li>Targets elephants that die from crossing railroads in India.</li>
@@ -105,7 +105,7 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
 ***
 
 <h3 style="margin-bottom: -20px">Teaching Assistant Positions</h3>
-<img style="float:right; margin: 0px 15px 15px 0px;" src="http://www.arkin.xyz/UCSD.png" width="200">
+<img style="float:right; margin: 0px -15px 15px 0px;" src="http://www.arkin.xyz/UCSD.png" width="200">
 <br /> <br />
 <!-- [CSE 11 - Object Oriented Programming](https://cseweb.ucsd.edu/~ricko/CSE11/) -->
 <a style="font-size: 17px" href="https://cseweb.ucsd.edu/~ricko/CSE11/">CSE 11 - Object Oriented Programming</a>

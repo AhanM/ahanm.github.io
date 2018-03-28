@@ -12,8 +12,8 @@ remote_theme:     poole/hyde
 title:            Ahan
 tagline:          'Personal Website'
 description:      '~ Software Engineer<br>~ Data Scientist<br>~ Aspiring Entreupreneur'
-url:              http://ahanm.github.io/PersonalWebsite
-baseurl:          /
+url:              http://ahanm.github.io
+baseurl:          ""
 
 # Software Engineer, Data Scientist, Aspiring Entreupreneur
 # A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Customized by <a href="https://twitter.com/mdo" target="_blank">@AhanM</a>.
