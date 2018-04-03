@@ -4,27 +4,26 @@ title: Blog
 ---
 
 <p class="message">
-  This is a test page for developing a blog extension and personal website rewrite.
+  This is going to be a blog about my experiences and learning from everyday life. Hopefully this wont be too tech heavy but if it is I'm good enough at explaining whatever jargon I use.  
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+All my life I've found myself explaining or simplifying complicated-looking concepts and strengthening my own understanding in the process. This is why I thought it would be a good idea to make a blog to assimilate important lessons that I learn and hopefully summarise it into one post and share it.
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+Some fun facts about the setup of this website include:
 
-* Built with [Jekyll](http://jekyllrb.com)
+* Built with [Jekyll](http://jekyllrb.com) using the [Hyde](http://hyde.getpoole.com) theme
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Visual Studio Code](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Jaded](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Coded with [Visual Studio Code](https://code.visualstudio.com), an amazing code editor
+* Designed and developed while listening to music like [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC?si=YRowfgmVSAOADl1aCWytjg)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/AhanM/PersonalWebsite/issues/new) or [ask me on Facebook](https://twitter.com/mdo).
+<iframe src="https://open.spotify.com/embed/track/47Bg6IrMed1GPbxRgwH2aC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Thanks for reading!
+<br/>
+Have questions or suggestions? <br/>
+Feel free to [open an issue on GitHub](https://github.com/AhanM/PersonalWebsite/issues/new) or [ask me on Facebook](https://facebook.com/ahan.xyz).
+
+## Articles
+
+Here's a list of all my posts. Happy reading!

@@ -25,6 +25,18 @@ _La Jolla, CA_ **//** Sept 2017 - Mar 2018 <br />
 <li>Proctored quizzes and exams in class</li>
 </ul>
 
+<img style="float:right; margin: -40px -15px 15px 0px;" src="https://sustainucsd.files.wordpress.com/2015/06/ucsdsust.jpeg" width="200">
+[Office of Sustainability](https://sustainability.ucsd.edu) <br />
+**_Green Events Intern_** <br />
+_La Jolla, CA_ **//** Jan - Mar 2018 <br />
+<ul style="font-size: 17px;">
+<li>#MyLastTrash is a University of California initiative that connects students to the 2020 zero waste goal and provides support for projects that approach this target.</li>
+<li>Ahan is responsible for developing the Green Events Program that endorses greener campus-wide student organization and staff hosted events. </li>
+<li>The program seeks to establish a comprehensive guideline for planning Green Events to achieve a win-win situation by reducing event costs and waste generation.</li>
+<li>He is also working on a Green Event Certification that will certify organizations fully capable of autonomously hosting Green Events.</li>
+<li>Ahan hopes that the Green Events Program will pave the way to zero waste events and bring the UC San Diego campus much closer to it’s zero waste goal.</li>
+</ul>
+
 <img style="float:right; margin: 0px 65px 15px 20px;" src="https://avatars2.githubusercontent.com/u/5808877?s=280&v=4" width="100">
 [Swish](https://www.swishlabs.com) <br />
 **_Software Enginering Intern_** <br />
