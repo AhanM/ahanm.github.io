@@ -9,12 +9,12 @@ title: Ahan Mukhopadhyay
 </div>
 
 ### Experience
-<img style="float:right; margin: 0px -10px 15px 20px;" src="https://www.viasat.com/sites/default/files/viasat-logo2_0.png" width="200">
+<img style="float:right; margin: 0px -30px 15px 20px;" src="https://www.viasat.com/sites/default/files/viasat-logo2_0.png" width="200">
 [Viasat](http://www.viasat.com) <br />
 **_Software Enginering Intern_** <br />
 _Carlsbad, CA_ **//** Summer 2018 <br />
 
-<img style="float:right; margin: 0px 15px 15px 20px;" src="http://www.sysnet.ucsd.edu/~voelker/pubcom/logo/CSELogo_4Cv.jpg" width="200">
+<img style="float:right; margin: 0px -10px 15px 0px;" src="http://www.sysnet.ucsd.edu/~voelker/pubcom/logo/CSELogo_4Cv.jpg" width="200">
 [CSE Department](https://cse.ucsd.edu) <br />
 **_Tutor_** <br />
 _La Jolla, CA_ **//** Sept 2017 - Mar 2018 <br />
@@ -37,7 +37,7 @@ _La Jolla, CA_ **//** Jan - Mar 2018 <br />
 <li>Ahan hopes that the Green Events Program will pave the way to zero waste events and bring the UC San Diego campus much closer to it’s zero waste goal.</li>
 </ul>
 
-<img style="float:right; margin: 0px 65px 15px 20px;" src="https://avatars2.githubusercontent.com/u/5808877?s=280&v=4" width="100">
+<img style="float:right; margin: 0px 25px 15px 20px;" src="https://avatars2.githubusercontent.com/u/5808877?s=280&v=4" width="100">
 [Swish](https://www.swishlabs.com) <br />
 **_Software Enginering Intern_** <br />
 _Remote_ **//** _Jul - Sept 2017_ <br />
@@ -49,7 +49,7 @@ _Remote_ **//** _Jul - Sept 2017_ <br />
 <li>Tech Used: NodeJs, ReactJs, MeteorJS, KeystoneJS, MongoDB</li>
 </ul>
 
-<img style="float:right; margin: 0px 65px 0px 20px;" src="https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAMAAQQIAAkAAQAAAAAAABIYAAAAJDcxNWU4ODIxLTZmNTMtNDI5Ny1hMGMwLThhY2ZiNzdhNDllNA.bin" width="100">
+<img style="float:right; margin: 0px 25px 0px 20px;" src="https://media.licdn.com/dms/image/C4E0BAQFy9oS7z2TT3g/company-logo_200_200/0?e=2159024400&v=alpha&t=-x4nLnCcfUyjSGqB4LMrjYHs6itLhxB4uPkAyhr6B6s" width="100">
 [Yobi Technologies](https://www.yobi.tech) <br />
 **_Software Development Intern_** <br />
 _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
@@ -66,7 +66,7 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
 
 ### Projects
 
-<img style="float:right; margin: 0px 10px 0px 0px;" src="http://res.cloudinary.com/djmk9vktk/image/upload/c_scale,q_100,w_216/v1499027349/logo-v3_fsgu4g.png" width="200">
+<img style="float:right; margin: 0px -10px 0px 0px;" src="http://res.cloudinary.com/djmk9vktk/image/upload/c_scale,q_100,w_216/v1499027349/logo-v3_fsgu4g.png" width="200">
 **[ChessBox](https://github.com/AhanM/ChessBox)** **--** _Physical chessboard AI_ <br />
 **PiB** - [Project in a Box](http://pib.ucsd.edu) **//** _Jan - Mar 2018_
 <ul style="font-size: 17px">
