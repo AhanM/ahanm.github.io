@@ -49,7 +49,7 @@ _Remote_ **//** _Jul - Sept 2017_ <br />
 <li>Tech Used: NodeJs, ReactJs, MeteorJS, KeystoneJS, MongoDB</li>
 </ul>
 
-<img style="float:right; margin: 0px 25px 0px 20px;" src="https://media.licdn.com/dms/image/C4E0BAQFy9oS7z2TT3g/company-logo_200_200/0?e=2159024400&v=alpha&t=-x4nLnCcfUyjSGqB4LMrjYHs6itLhxB4uPkAyhr6B6s" width="100">
+<img style="float:right; margin: 0px 25px 0px 20px;" src="{{ site.baseurl }}/public/yobi.png" width="100">
 [Yobi Technologies](https://www.yobi.tech) <br />
 **_Software Development Intern_** <br />
 _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
@@ -79,7 +79,7 @@ _Gurgaon, India_  **//**   _Apr - Jun 2017_<br />
   <li>Tech Used: C/C++, AI, AlphaBeta Pruning</li>
 </ul>
 
-<img style="float:right; margin: 0px -20px 0px 0px;" src="https://firefly-challengepost.netdna-ssl.com/usercontent/fill/333/222/cGhvdG9zL3Byb2R1Y3Rpb24vc29mdHdhcmVfdGh1bWJuYWlsX3Bob3Rvcy8wMDAvNDU5LzUxNi9kYXRhcy9vcmlnaW5hbC5wbmc=/banner.png?signature=f2bd415c294012d01f5f765d1d5a3df0010c54ec" width="200">
+<img style="float:right; margin: 0px -20px 0px 0px;" src="{{ site.baseurl }}/public/clickblock.png" width="200">
 **ClickBlock --**  _Chrome extension that counters clickbaits_ <br />
 **Social Hack Winner** _HackUCI 2017_
 <ul style="font-size: 17px">
