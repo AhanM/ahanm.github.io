@@ -6,3 +6,6 @@ _site
 # bundle install
 .bundle
 vendor
+
+# .vscode
+.vscode
