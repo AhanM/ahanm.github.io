@@ -22,7 +22,7 @@ Some fun facts about the setup of this website include:
 
 <br/>
 Have questions or suggestions? <br/>
-Feel free to [open an issue on GitHub](https://github.com/AhanM/PersonalWebsite/issues/new) or [ask me on Facebook](https://facebook.com/ahan.xyz).
+Feel free to [open an issue on GitHub](https://github.com/AhanM/PersonalWebsite/issues/new) or [ask me on Facebook](https://www.facebook.com/ahanm.xyz).
 
 ## Articles
 

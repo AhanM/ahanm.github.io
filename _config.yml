@@ -28,5 +28,4 @@ paginate:         5
 version:          2.0.0
 plugins:          [jekyll-paginate]
 
-github:           [metadata]
-  # repo:           https://github.com/AhanM/PersonalWebsite
+repo:           https://github.com/AhanM/ahanm.github.io
