@@ -13,6 +13,14 @@ title: Ahan Mukhopadhyay
 [Viasat](http://www.viasat.com) <br />
 **_Software Enginering Intern_** <br />
 _Carlsbad, CA_ **//** Summer 2018 <br />
+<ul style="font-size: 17px">
+<li>Designed a ZTP system for automating the deployment of next-gen network</li>
+<li>Implemented an asynchronous Orchestrator for long workflow tasks</li>
+<li>Created a VPN concentrator that uses the daemon charon to detect ipsec tunnels</li>
+<li>Used kubernetes to deploy multiple docker-image pods to the cloud</li>
+<li>Won intern hackathon category Delivering The Unexpected</li>
+<li>Tech Used: Python, Flask, Celery, Docker, Kubernetes, PostgresSQL</li>
+</ul>
 
 <img style="float:right; margin: 0px -10px 15px 0px;" src="http://www.sysnet.ucsd.edu/~voelker/pubcom/logo/CSELogo_4Cv.jpg" width="200">
 [CSE Department](https://cse.ucsd.edu) <br />
